@@ -1,5 +1,4 @@
-name: Shell commands
-
+name: Hello-World
 on: [push]
 
 jobs:

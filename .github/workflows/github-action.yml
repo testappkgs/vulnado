@@ -1,4 +1,4 @@
-name: Example github devsecops pipeline workflow using Snyk actions
+name: Snyk scan for known vulnerability
 on: push
 jobs:
   security:
