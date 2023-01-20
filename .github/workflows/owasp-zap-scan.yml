@@ -16,6 +16,6 @@ jobs:
         continue-on-error: true
         with:
           docker_name: 'owasp/zap2docker-stable'
-          target: 'https://www.hackthissite.org/'
+          target: 'https://6496-2401-4900-5046-f735-9496-27fe-bad-d11a.in.ngrok.io/login.html'
           rules_file_name: '.zap/rules.tsv'
           cmd_options: '-a'
