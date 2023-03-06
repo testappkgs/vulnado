@@ -2,4 +2,4 @@ this is test commit file.
 
 Let's test github webhook integrated by Parag.
 
-Trufflehog integration with docker 
+Trufflehog integration with docker sudo permission
