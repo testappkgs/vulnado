@@ -3,3 +3,5 @@ this is test commit file.
 Let's test github webhook integrated by Parag.
 
 Trufflehog integration and print result in logs.
+
+Source Composition Analysis (SCA) stage added.
